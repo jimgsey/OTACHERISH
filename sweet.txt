@@ -1,53 +1,31 @@
 ===========================
-== Changelog v2.9 13/09/2021 ==
+== Changelog v2.10 13/11/2021 ==
 ===========================
- - 
-   Implemented Monet Wannabe 
-   September Security Patch Merged
-   Added Lottie Animation selection for Keyguard clock styles 
-   Added supported AM/PM for Big OOS clock
-   Added Edge Music Control Gesture
-   Added Hotspot client manager
-   Added media notification background with artwork 
-   Added auto-brightness icon to QS footer
-   Added New Gaming Mode 
-   Added simple fade filter to the media artwork 
-   Added MAC address firewall
-   Added FPS Info Overlay & Tile 
-   Added some apns
-   Added option to scramble pin layout when unlocking
-   Added Sensor Block
-   Added Pulse initial checkin for Android 11
-   Added QS footer visibilities
-   Added back footer text 
-   Added RGB accenter 3.0
-   Added leaf icon shape 
-   Added qs powershare tile 
-   Updated Lawnchair 11 Alpha 6.1
-   Updated Security Settings drawables from Android 12 
-   Updated Now Playing database as of August 4, 2021 
-   Updated translation from crowdin
-   Fixed edit icon color in OOSIconPack:
-   Fixed SystemUI Crash with Navigation
-   Fixed sim lock not show 
-   Fixed some overlays not work with system themes 
-   Fixed lockscreen wallpaper not being set if different from the Home one
-   Fixed NPE when navbar is hidden
-   Fixed not hide if media is not playing in Lockscreen MediaArt
-   Fixed extreme battery saver mode
-   Fixed the problem with clock position
-   Fixed overlays resetting on every reboot 
-   Removed gradient picker 
-   Improved other systems
+
+• Merged Oct Security Patch 
+• Add more overlay Monet 
+• LyricTicker: Follow status bar padding 
+• Pulse: Fix potential SystemUI FC 
+• Made IME button space optional 
+• Redesigned Dialer Ui from Octavi
+• Added left and right virtual buttons while typing 
+• Updated battery info every second when device is charging
+• Introduce Battery Landscape | Left Battery Text 
+• Added System Charging Animation  
+• Added VoWiFi/VoLTE Icons 
+• Added sensors off tile  
+• Screen Recording: Redesigned the dialog to match guidelines
+• Improved other systems
+
 -
 -
 =================================
-== Device Changelog: v2.9 13/09/2021 ==
+== Device Changelog: v2.10 13/11/2021 ==
 =================================
 -
-   Primera OTA privada
-   Sincronizado repo a 13/09/2021
-   Actualizado hots a 13/09/2021
+   OTA privada
+   Sincronizado repo a 13/11/2021
+   Actualizado hots a 13/11/2021
 -
 -
 ############
