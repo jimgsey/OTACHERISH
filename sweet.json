@@ -1,16 +1,28 @@
 {
-"error":false,
-"filename": Cherish-OS-v3.8-20220615-1404-sweet-UNOFFICIAL-Vanilla.zip,
-"datetime": 1655310383,
-"size":1609352737, 
-"url":"https://sourceforge.net/projects/sweet10/files/Cherish/Android-R/Cherish-OS-v3.8-20220615-1404-sweet-UNOFFICIAL-Vanilla.zip/download", 
-"filehash":"376b6ac448ac8d2a71bb0a3277d8353f", 
-"version": "12.1", 
-"id": "376b6ac448ac8d2a71bb0a3277d8353f",
-"donate_url": "http://paypal.me/jimgsey",
-"website_url":"https://jimgsey.github.io/",
-"news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Jimgsey",
-"maintainer_url":"https://t.me/jimgsey",
-"forum_url":"https://jimgsey.github.io"
+  "response": [
+    {
+        "maintainer": "Jimgsey",
+        "oem": "Redmi",
+        "device": "Redmi Note 10 Pro",
+        "filename": "Cherish-OS-v3.8-20220615-1404-sweet-UNOFFICIAL-Vanilla.zip",
+        "download": "https://sourceforge.net/projects/sweet10/files/Cherish/Android-S/Cherish-OS-v3.8-20220615-1404-sweet-UNOFFICIAL-Vanilla.zip/download",
+        "timestamp": 1655301837,
+        "md5": "376b6ac448ac8d2a71bb0a3277d8353f",
+        "sha256": "2327aa8b60edb88f688eb44e878bb103afcfb301a13f65e04cbffdc8c13cc2a3",
+        "size": 1609352737,
+        "version": "1404.1404",
+        "buildtype": "weekly",
+        "forum": "https://jimgsey.github.io/",
+        "gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12.1/",
+        "firmware": "https://sourceforge.net/projects/sweet10/files/FW/",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://sourceforge.net/projects/sweet10/files/Recovery/",
+        "paypal": "http://paypal.me/jimgsey",
+        "telegram": "https://t.me/jimgsey",
+        "dt": "https://github.com/jimgsey",
+        "common-dt": "",
+        "kernel": "https://github.com/jimgsey"
+    }
+  ]
 }
