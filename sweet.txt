@@ -1,1 +1,21 @@
-v3.7//
+v3.8//
+
+* Qs transparency 
+* Merged June Patch
+* Added refresh rate tile 
+* Added toggle data usage view on QS footer
+* Added reticker 
+* Added hide gestural navigation hint bar 
+* Added applock: intercept activity in a better way
+* Showed floating rotation if 2-button nav mode enabled 
+* VolumePanel: Designed changes 
+* Screenrecord: Designed layout to the new spec 
+* Used App icon for per-app volume 
+* Followed light/dark theme settings in privacy indicators
+* Fixed QS clock overlapping on UI mode change 
+* Fixed daveys when latch_unsignaled is used 
+* Fixed app icon font on PixelLauncher
+* Improve QS tiles height properly
+* Updated some theme icons base on monet
+* Updated translation from crowdin
+* Improve other systems
